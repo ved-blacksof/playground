@@ -11,4 +11,16 @@
     pincode: "454545",
     phone: "1234567489",
   },
+  {
+    id: "",
+    address: "John",
+    address: "Snow",
+    addressType: "Home",
+    addressDes: "Mariette Hesting",
+    state: "Madhya Pradesh",
+    city: "Indore",
+    country: "India",
+    pincode: "454545",
+    phone: "1234567489",
+  },
 ]
